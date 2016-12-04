@@ -1,0 +1,6 @@
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\ProjectManagment\TestGit\TestGit\bin\Debug\TestGit.exe.config
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\ProjectManagment\TestGit\TestGit\bin\Debug\TestGit.exe
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\ProjectManagment\TestGit\TestGit\bin\Debug\TestGit.pdb
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\ProjectManagment\TestGit\TestGit\obj\Debug\TestGit.csprojResolveAssemblyReference.cache
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\ProjectManagment\TestGit\TestGit\obj\Debug\TestGit.exe
+C:\Users\Ігор\Documents\Visual Studio 2015\Projects\ProjectManagment\TestGit\TestGit\obj\Debug\TestGit.pdb
