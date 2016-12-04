@@ -36,6 +36,7 @@ namespace TestGit
             Program p = new Program();
             p.Sum(7, 8);
             p.Minus(23, 6);
+            p.Divide(4, 3);
             p.Multiply(3, 5);
         }
     }
