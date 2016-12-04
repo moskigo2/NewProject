@@ -30,6 +30,11 @@ namespace TestGit
             Console.WriteLine("Multiply= "+(a*b));
         }
 
+        public void SomeMethod()
+        {
+
+        }
+
 
         static void Main(string[] args)
         {
