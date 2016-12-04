@@ -25,12 +25,18 @@ namespace TestGit
             else throw new DivideByZeroException();
         }
 
+        public void Multiply(double a, double b)
+        {
+            Console.WriteLine("Multiply= "+(a*b));
+        }
+
+
         static void Main(string[] args)
         {
             Program p = new Program();
             p.Sum(7, 8);
             p.Minus(23, 6);
-
+            p.Multiply(3, 5);
         }
     }
 }
