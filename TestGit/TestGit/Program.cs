@@ -15,7 +15,14 @@ namespace TestGit
 
         public void Minus(double a, double b)
         {
-            Console.WriteLine("Result= "+(a-b));
+            Console.WriteLine("Result= " + (a - b));
+        }
+
+        public void Divide(double a, double b)
+        {
+            if (b != 0)
+                Console.WriteLine("Devide result= " + (a / b));
+            else throw new DivideByZeroException();
         }
 
         static void Main(string[] args)
@@ -23,6 +30,7 @@ namespace TestGit
             Program p = new Program();
             p.Sum(7, 8);
             p.Minus(23, 6);
+
         }
     }
 }
