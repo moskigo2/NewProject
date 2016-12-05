@@ -16,3 +16,6 @@ C:\Users\Ігор\Desktop\Новая папка\NewProject\TestGit\TestGit\obj\D
 C:\Users\Ігор\Desktop\Новая папка\NewProject\TestGit\TestGit\bin\Debug\TestGit.exe
 C:\Users\Ігор\Desktop\Новая папка\NewProject\TestGit\TestGit\bin\Debug\TestGit.pdb
 C:\Users\Ігор\Desktop\Новая папка\NewProject\TestGit\TestGit\obj\Debug\TestGit.csprojResolveAssemblyReference.cache
+D:\Папке\ProjectManagment\Новая папка\NewProject\TestGit\TestGit\bin\Debug\TestGit.exe.config
+D:\Папке\ProjectManagment\Новая папка\NewProject\TestGit\TestGit\obj\Debug\TestGit.exe
+D:\Папке\ProjectManagment\Новая папка\NewProject\TestGit\TestGit\obj\Debug\TestGit.pdb
